@@ -1,0 +1,1 @@
+### The aim is to understand how matrix multiplication task varies (in terms of speed of execution and sharing matrix data) in single-threaded, multi-threaded and multi-process programming fashion. ### 
